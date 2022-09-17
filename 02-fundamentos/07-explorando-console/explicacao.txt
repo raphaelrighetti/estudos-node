@@ -1,0 +1,9 @@
+O console tem diversos métodos além do .log. Aqui listarei alguns interessantes:
+
+- .count:
+
+    Serve também como um log, mas com a diferença de que no final ele sempre imprime qual é o número da vez que ele está sendo disparado. Interessante para debugar e entender loops.
+
+- .clear:
+
+    Limpa o console.
